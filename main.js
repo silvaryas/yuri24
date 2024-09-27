@@ -7,11 +7,10 @@ function areadeumquadrado(lado){
     return lado**2
 }
 console.log(areadeumquadrado(6));
-
-let media=function(media){
-    return (1+2+3)/3;
+let media=function(x,y,z){
+    return(1,2+3)/3;
 }
-console.log(media(1+2+3/3));
+console.log(media((num1,num2,num3)/3));
 
 
 
