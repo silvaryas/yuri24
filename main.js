@@ -7,12 +7,12 @@ function areadeumquadrado(lado){
     return lado**2
 }
 console.log(areadeumquadrado(6));
-let nome=parseint(prompt('qual o valor ?'));
-let media=function(x,y,z){
+let valoresmedia= parseInt(prompt('insira o valor'))
+let media=function(num1,num2,num3){
 
-    return(1,2+3)/3;
+    return(num1,num2+num3)/3;
 }
-console.log(media((num1,num2,num3)/3)); 
+console.log(media()); 
 
 
 
