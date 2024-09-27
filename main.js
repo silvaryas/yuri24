@@ -10,7 +10,7 @@ console.log(areadeumquadrado(6));
 let valoresmedia= parseInt(prompt('insira o valor'))
 let media=function(num1,num2,num3){
 
-    return(num1,num2+num3)/3;
+    return(num1+num2+num3)/3;
 }
 console.log(media(1,2,3)/3); 
 
